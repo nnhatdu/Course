@@ -5,8 +5,6 @@ You can choose one module from the list below:-
 3)Dynamic Programming
 
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
-
-
+Nhat Du Ngo
+Algorithm Analysis
+Learn various techniques to measure algorithmic performance, including Big O notation, which provides a standardized way to express the upper bounds of an algorithm's growth rate. The course often covers topics such as worst-case, average-case, and best-case analyses, helping students understand the varying behavior of algorithms under different scenarios.
